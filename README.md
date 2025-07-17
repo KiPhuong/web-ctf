@@ -1,5 +1,5 @@
 Run on docker: docker run -d -p 5000:80 --name web-ctf kiphuong/web-ctf
-
+=> Truy cập vào localhost:5000 để vào challenge
 Mục tiêu: 
 
 - Ứng dụng lỗ hổng tài khoản mặc định + danh sách thư mục để tìm flag
